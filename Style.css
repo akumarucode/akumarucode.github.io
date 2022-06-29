@@ -1,0 +1,49 @@
+h1 {
+    background-color: white;
+    font-family: 'Prompt', sans-serif;
+    font-size: 50px;
+    height: 25%;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: white;
+    margin: auto;
+    height: 50%;
+    width: 80%;
+}
+
+.body-div {
+    margin: auto;
+    width: 80%;
+    border: 3px solid gray;
+    padding: 10px;
+}
+
+.main-points {
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Prompt', sans-serif;
+}
+
+.images {
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.normal-text {
+    font-size: 20px;
+}
+
+.normal-text2 {
+    font-size: 20px;
+    font-style: bold;
+}
